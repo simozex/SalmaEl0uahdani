@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning : C .
 - 📫 How to reach me : 
 You can find links to my social media in my profile. Here are some other ways to get in touch with me:
-Discord : SalmaEO#4877 ||
-E-mail: s.e.o.professionaluses@gmail.com
+Discord : SalmaEO#4877
 
 
 <!---
