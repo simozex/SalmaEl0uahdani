@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @SalmaEl0uahdani
-- 👀 I’m interested in Programming, Cyber security & Graphic design .
-- 🌱 I’m currently learning : C .
-- 📫 How to reach me : 
-You can find links to my social media in my profile. Here are some other ways to get in touch with me:
-Discord : SalmaEO#4877
+<div align="center">
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=f316e7&center=true&vCenter=true&width=440&lines=👋+hola%2C+I%E2%80%99m+SalmaEl0uahdani!💻"<h1>
+
+</br>[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&color=f316e7&width=435&lines=MYBright+WORLD!)](https://git.io/typing-svg)
 
 
-<!---
-SalmaEl0uahdani/SalmaEl0uahdani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
