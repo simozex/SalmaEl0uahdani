@@ -6,3 +6,14 @@
 
 
 <img alt="Be Happy.png" src="https://github.com/SalmaEl0uahdani/SalmaEl0uahdani/blob/main/Be%20Happy.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
+<h4 align="center">Welcome to my repository📚 of software engineer💜 project examples! Here you'll find a collection of projects showcasing my skills🌠.</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalmaEl0uahdani&label=Profile%20views&color=0e75b6&style=flat" alt="cbechstedt" /> </p>
+
+- 👨‍💻 All of my projects you can see in my pinned pushpin projects here.
+
+- 📫 How to reach me **salma.el.ouahdani.professionnel@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href='https://www.instagram.com/simo_mouhala/' target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
